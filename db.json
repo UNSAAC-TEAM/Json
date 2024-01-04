@@ -12,5 +12,33 @@
     "password": "123",
     "roll": "TEACHER"
     }
+  ],
+  "profile":[
+    {
+      "id": 1,
+      "accountId":"1",
+      "name":"Diego",
+      "lastName":"Talledo Sanchez",
+      "imageUrl":"https://c.pxhere.com/photos/08/7a/male_portrait_profile_social_media_cv_young_elegant_suit-459413.jpg!d",
+      "birthdate":"18/05/2003",
+      "city":null,
+      "gender": "male",
+      "workArea":null,
+      "education":null,
+      "description":null
+    },
+    {
+      "id": 2,
+      "accountId":"2",
+      "name":"Franchesco",
+      "lastName":"Soto Sanchez",
+      "imageUrl":"",
+      "birthdate":"10/04/2003",
+      "city":null,
+      "gender": "male",
+      "workArea":null,
+      "education":null,
+      "description":null
+    }
   ]
 }
