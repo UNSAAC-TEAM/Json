@@ -1,72 +1,16 @@
 { 
-  "plants": [
+  "account": [
     {
     "id": 1,
-    "name": "Cabbage",
-    "scientificName": "Brassica oleracea var",
-    "imageUrl": "https://media.istockphoto.com/id/1341385091/photo/cabbage-cultivation-close-up.webp?b=1&s=170667a&w=0&k=20&c=HduVWYvfC3B_57LGowVTgGkYKSAXUVFJdGdyG4e4wW8=",
-    "variety": "Brassica oleracea",
-    "landType": "Loamy soil",
-    "weatherConditions": "Cool and moist",
-    "distanceBetweenPlants": "12 inches",
-    "idealPlantingDepth": "1/4 inch",
-    "fertilizationAndFumigation": "Organic compost and natural pest repellents",
-      "minTemperature": 10,
-      "maxTemperature": 25,
-      "minHumidity": 40,
-      "maxHumidity": 80,
-      "pH": 6.5
+    "email": "diego@gmail.com",
+    "password": "123",
+    "roll": "STUDENT"
     },
     {
     "id": 2,
-    "name": "Tomato",
-    "scientificName": "Solanum lycopersicum",
-    "imageUrl": "https://www.almanac.com/sites/default/files/styles/or/public/image_nodes/tomatoes_helios4eos_gettyimages-edit.jpg?itok=AFHF0CtR",
-    "variety": "Cherry Tomato",
-    "landType": "Loamy soil",
-    "weatherConditions": "Warm and sunny",
-    "distanceBetweenPlants": "18 inches",
-    "idealPlantingDepth": "1/4 inch",
-    "fertilizationAndFumigation": "Organic compost and natural pesticides",
-      "minTemperature": 15,
-      "maxTemperature": 30,
-      "minHumidity": 50,
-      "maxHumidity": 85,
-      "pH": 6.0
-  },
-  {
-    "id": 3,
-    "name": "Carrot",
-    "scientificName": "Daucus carota subsp. sativus",
-    "imageUrl": "https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2021/04/23175719/shutterstock_440493100-1.jpg",
-    "variety": "Nantes",
-    "landType": "Sandy soil",
-    "weatherConditions": "Mild temperatures",
-    "distanceBetweenPlants": "2 inches",
-    "idealPlantingDepth": "1/4 inch",
-    "fertilizationAndFumigation": "Well-rotted compost and neem oil",
-    "minTemperature": 10,
-      "maxTemperature": 25,
-      "minHumidity": 40,
-      "maxHumidity": 80,
-      "pH": 6.0
-  },
-  {
-    "id": 4,
-    "name": "Lettuce",
-    "scientificName": "Lactuca sativa",
-    "imageUrl": "https://www.bhg.com/thmb/oL0DwR0DXrhFynA2y-oiY-nkCbg=/1878x0/filters:no_upscale():strip_icc()/tango-oakleaf-lettuce-c6f6417e-4cffa63034624d96a9e9ec9a3fe158f9.jpg",
-    "variety": "Romaine",
-    "landType": "Loamy soil",
-    "weatherConditions": "Cool and mild",
-    "distanceBetweenPlants": "8 inches",
-    "idealPlantingDepth": "1/8 inch",
-    "fertilizationAndFumigation": "Fish emulsion and garlic spray",
-     "minTemperature": 10,
-      "maxTemperature": 25,
-      "minHumidity": 50,
-      "maxHumidity": 85,
-      "pH": 6.5
-  }
+    "email": "franchesco@gmail.com",
+    "password": "123",
+    "roll": "TEACHER"
+    }
   ]
 }
