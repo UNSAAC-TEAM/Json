@@ -1,5 +1,6 @@
 { 
-  "blogs": [
+  "totalOfBlogs":51,
+  "currentPageBlogs": [
     {
     "id": 1,
     "author": "Diego Talledo",
